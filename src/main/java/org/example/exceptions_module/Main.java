@@ -5,8 +5,6 @@ package org.example.exceptions_module;
  */
 public class Main {
     public static void main(String[] args) {
-        while(true){
 
-        }
     }
 }
